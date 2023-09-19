@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onFocusChange",
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all"
+}
